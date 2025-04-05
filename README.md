@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate **Backend Developer** and **Compu
 
 ## 🌟 What I Do:
 - **Backend Development:** Focused on creating efficient, scalable web applications using **Node.js**, **Spring Boot**, and **.NET Core**. I'm experienced in CRUD operations, API design, and optimizing database interactions.
-- **Web Development Intern at TPL Insurance:** Currently working on backend development projects using **.NET**, **SQL Server**, and **C#**. My responsibilities include designing and developing CRUD operations, collaborating with the project management team, and improving internal processes.
+- **Web Development:** During my internship at **TPL Insurance**, I worked on backend web development projects using **.NET**, **SQL Server**, and **C#**. My responsibilities included designing and developing CRUD operations, collaborating with the project management team, and improving internal processes.
 - **Cybersecurity:** With a solid foundation in information security, I’ve worked on **AAA principles**, **Network Security**, **GRC**, and **SOC** operations during my internship at **BankIslami**.
-- **Data Engineering:** During my Engro intership, I was part of a dynamic team where I contributed to the efforts of the Data Transformation and Engineering team, focusing on data pipelineing, transformation, engineering, warehousing, and visualization, utilizing tools including **Python** libraries, the **Qlik** platform, and **Snowflake Cloud** solutions.
+- **Data Engineering:** During my **Engro Corp** intership, I was part of a dynamic team where I contributed to the efforts of the Data Transformation and Engineering team, focusing on data pipelineing, transformation, engineering, warehousing, and visualization, utilizing tools including **Python** libraries, the **Qlik** platform, and **Snowflake Cloud** solutions.
 
 ## 🛠 Tech Stack:
 - **Frameworks & Tools:** ASP.NET Core, .NET, Spring Boot, and more.
